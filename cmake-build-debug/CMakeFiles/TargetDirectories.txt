@@ -1,0 +1,3 @@
+/home/adidbohm/workspace/arduino/sonar_distance_git/cmake-build-debug/CMakeFiles/sonar_distance_git.dir
+/home/adidbohm/workspace/arduino/sonar_distance_git/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adidbohm/workspace/arduino/sonar_distance_git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
