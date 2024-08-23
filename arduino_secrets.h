@@ -1,0 +1,2 @@
+#define SECRET_SSID "WannBubatzLegal"
+#define SECRET_PASS "54693736604286450637"
